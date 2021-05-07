@@ -1,5 +1,5 @@
 # Denver-Nuggets-2020-Playoff-Analysis
-This is a short data visualizations project which looks at how Denver overcame two consecutive 1-3 series deficits during the 2020 NBA Playoffs.
+This is a data visualizations project which analyzes how Denver overcame two consecutive 1-3 series deficits during the 2020 NBA Playoffs.
 ## To Run:
 1. Clone this repository.
 2. Install the requirements.txt file if you are working in a virtual environment.
